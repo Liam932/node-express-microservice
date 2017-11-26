@@ -1,0 +1,24 @@
+.DS_Store
+test_out/
+TEST-*.xml
+build/
+.nvm/
+.tmp/
+**/*.idea
+*.swp
+.vscode/
+**/*.json.tmp-*
+
+#********** Node template**********
+
+node_modules
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+npm-debug.log*

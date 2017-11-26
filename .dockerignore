@@ -1,0 +1,15 @@
+.git/
+.github/
+.idea/
+node_modules/
+test/
+.DS_STORE
+.editorconfig
+.eslintrc.js
+.eslintignore
+.gitignore
+README.md
+yarn-error.log
+build/
+bin/
+*.log
